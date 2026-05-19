@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>404</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="twitter:card" content="summary" />
+
+
+
+
+
+
+
+
+
+<!--
+                          _____     __
+     ___ ___  ___ _    __/ _/ /__  / /_ ___
+    (_-</ _ \/ _ \ |/|/ / _/ / _ `/  ´_/ -_)
+   /___/_//_/\___/__,__/_//_/\_,_/_/\_\\__/
+
+  Realisation: Snowflake Productions GmbH
+  Contact: www.snowflake.ch / zuerich at snowflake.ch
+
+  -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="author" content=""/><meta name="keywords" content=""/><link rel="preload" href="/Resources/app.fc30c8f9551d51fe127f.css" as="style" /><link rel="preload" href="/Resources/app.a60b8e6de4f21c8af7cc.js" as="script" /><link rel="icon" href="/typo3conf/ext/template/Resources/Public/Partials/Head/Images/Icon.png" sizes="32x32" /><link rel="icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_b35704cad9.png" sizes="57x57" /><link rel="icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_c672ed0eb4.png" sizes="76x76" /><link rel="icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_b00b0d5291.png" sizes="96x96" /><link rel="icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_1cfaf771a9.png" sizes="128x128" /><link rel="icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_9642b0557f.png" sizes="192x192" /><link rel="icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_aa95da06e9.png" sizes="228x228" /><link rel="shortcut icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_9463804a84.png" sizes="196x196" /><link rel="apple-touch-icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_855a83f47d.png" sizes="120x120" /><link rel="apple-touch-icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_a790fe234d.png" sizes="152x152" /><link rel="apple-touch-icon" href="/typo3temp/assets/_processed_/7/e/csm_Icon_80ab85d3fe.png" sizes="180x180" /><meta name="theme-color" content="#ffffff"/><link rel="stylesheet" type="text/css"
+						href="/Resources/app.fc30c8f9551d51fe127f.css"
+						media="all"><!-- Matomo --><script>
+	var _paq = window._paq = window._paq || [];
+	/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+	_paq.push(['trackPageView']);
+	_paq.push(['enableLinkTracking']);
+	(function() {
+		var u="https://lenzstaehelin.opsone-analytics.ch/";
+		_paq.push(['setTrackerUrl', u+'matomo.php']);
+		_paq.push(['setSiteId', '1']);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	})();
+</script><!-- End Matomo Code --><meta name="referrer" content="no-referrer-when-downgrade"><script>!function(r){var i=document.createElement("img");i.setAttribute("src","//lenzstaehelin.vuture.net/security/tracker.gif?referer="+encodeURIComponent(r))}(document.referrer);</script>
+
+
+<link rel="canonical" href="https://www.lenzstaehelin.com/404/"/>
+</head>
+<body>
+<main data-lang="0">
+	
+		<!--TYPO3SEARCH_begin-->
+		<div class="body-container page-not-found">
+			<div class="page-not-found__wrapper">
+				<h1>404</h1>
+				<p class="b1_large_body">The page you were looking for does not exist</p>
+				<a class="page-not-found__link" href="/">Go Back</a>
+			</div>
+		</div>
+		<!--TYPO3SEARCH_end-->
+	
+</main>
+
+<footer id="Footer" class="Footer text-white bg-black px-3 py0 d-print-none">
+	<div class="row">
+		<div class="col-5 col-md-6">
+			<img class="img-fluid footer__logo" alt="Snowflake Productions GmbH" src="/typo3conf/ext/template/Resources/Public/Partials/Images/Logo/Logo_white.svg" width="113" height="86" />
+		</div>
+		<div class="col-7 col-md-6">
+			<div class="footer-title">
+				<p>
+					Lenz&nbsp;&amp;&nbsp;Staehelin
+					<br>
+					The world’s Swiss law firm
+				</p>
+			</div>
+		</div>
+		<div class="col-6 offset-6">
+			<div class="row">
+				<div class="footer-navigation">
+					<nav id="FooterNavigation" class="FooterNavigation d-print-none">
+	<ul class="list-inline">
+		<div class="row">
+			<div class="col-md-5">
+				
+					<li>
+						<a class="text-white" href="/contact/" target="">Contact</a>
+					</li>
+				
+					<li>
+						<a class="text-white" href="/sitemap/" target="">Sitemap</a>
+					</li>
+				
+					<li>
+						<a class="text-white" href="https://www.linkedin.com/groups/7432895/" target="_blank">Alumni</a>
+					</li>
+				
+					<li>
+						<a class="text-white" href="/legal-notice/" target="">Legal Notice</a>
+					</li>
+				
+					<li>
+						<a class="text-white" href="/privacy-policy/" target="">Privacy Policy</a>
+					</li>
+				
+					<li>
+						<a class="text-white" href="https://www.linkedin.com/company/lenz-&amp;-staehelin/" target="_blank">LinkedIn</a>
+					</li>
+				
+					<li>
+						<a class="text-white" href="https://www.instagram.com/lenzandstaehelin" target="">Instagram</a>
+					</li>
+				
+				
+				
+					
+							
+						
+				
+					
+				
+					
+				
+				
+			</div>
+		</div>
+
+	</ul>
+</nav>
+
+				</div>
+			</div>
+		</div>
+		<div class="col-12 col-md-6 offset-md-6">
+			<div class="footer-copyright">
+				<p class="text-caption copyright m-0">
+					© 2026 Lenz&nbsp;&amp;&nbsp;Staehelin
+				</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script src="/typo3temp/assets/compressed/merged-f6136956d182124708dafdac81353ec4.js?1770643817"></script>
+
+<script src="/Resources/app.a60b8e6de4f21c8af7cc.js"></script>
+
+<script>
+	Snowflake.Template.language = "en";
+</script>
+
+
+<link rel="stylesheet" href="/typo3conf/ext/template/Resources/Public/Css/Print.css">
+</body>
+</html>
